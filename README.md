@@ -11,5 +11,6 @@ It then uses google calenedar API to add all these as events into the user's goo
 - `pip install google-auth-oauthlib`
 ## Requirements
 Create a google cloud console account and add it as your project and set up OAUTH client ID.
+Enable `Google Calendar API`.
 Download the `json` file and link it to `cal_setup.py`.
 Run the code and allow all the google sign in pop ups.
