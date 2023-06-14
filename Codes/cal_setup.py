@@ -8,7 +8,7 @@ from google.auth.transport.requests import Request
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/calendar']
 
-CREDENTIALS_FILE = '/home/shreesha/FD-Reminders/Codes/client_secret_784081891283-f5j004i07gh198iksrh90as07cg8psbb.apps.googleusercontent.com.json'
+CREDENTIALS_FILE = '/home/shreesha/FD-Reminders/Codes/client_secret_[client_id].apps.googleusercontent.com.json'
 
 def get_calendar_service():
    creds = None
