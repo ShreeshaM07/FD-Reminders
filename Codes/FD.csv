@@ -1,0 +1,7 @@
+Bank name ,FD no,date of deposit(dd/mm/yyyy),date of maturity(dd/mm/yyyy),rate of interest %,AC/name,amount,time remaining (days)
+sbi,23431,12-02-2020,29-04-2023,5.0,aa,1283928,-45
+axis,23212,01-12-2020,22-05-2023,5.5,ab,123242,-22
+icici,12020,20-04-2023,24-05-2023,7.0,me,136749,-20
+hdfc,92837,20-03-2023,24-05-2023,8.0,ye,127345,-20
+icici,12022,20-04-2023,12-05-2023,7.0,me,1244,-32
+bcb,1202,20-04-2023,29-04-2023,7.0,me2,12333,-45
